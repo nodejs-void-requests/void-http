@@ -1,5 +1,5 @@
 {
-  "name": "http-browserify",
+  "name": "void-http",
   "version": "1.7.0",
   "description": "http module compatability for browserify",
   "main": "index.js",
@@ -13,7 +13,6 @@
     "test": "tape test/*.js"
   },
   "dependencies": {
-    "Base64": "~0.2.0",
     "inherits": "~2.0.1"
   },
   "devDependencies": {
